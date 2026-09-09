@@ -1,0 +1,11 @@
+.biodata {
+    display: flex;
+}
+
+h2 {
+    padding-top: 200px;
+}
+
+form input, form select {
+    width: 170px;
+}
